@@ -8,5 +8,10 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+
 <h2>Stats</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pock-Pock&show_icons=true&hide_border=true" alt=GitHub Stats" width="600">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Pock-Pock&theme=radical&hide_border=true)
+
+![Followers](https://img.shields.io/github/followers/Pock-Pock?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Pock-Pock&color=brightgreen&style=flat-square)
